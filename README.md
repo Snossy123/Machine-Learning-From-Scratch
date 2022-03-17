@@ -9,8 +9,8 @@
 #### ❖ If a variable can not be used as it is, you must handle it first.
 #### ❖ Assignment Deadline: Thursday 17/3/2022 11:59 PM
 #### ❖ You are expected to deliver a .rar/.zip file on Microsoft Teams containing:
-  1- Assignment1.py code file containing the code for the six models and prints the MSE for each model.
-  2- Word file containing:
+  ##### 1- Assignment1.py code file containing the code for the six models and prints the MSE for each model.
+  ##### 2- Word file containing:
   - Your name, id, department
   - A table that summarizes the mean square error of each model
   - Your conclusion the best variable to use for this task.
